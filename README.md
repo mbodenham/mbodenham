@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Neural Architecture Search**
 
-- 🌱 I’m currently learning about **3D printing and CAD**
+- 🌱 I’m currently learning about **GPU Programming with CUDA C++**
 
 - 👨‍💻 All of my projects are available at [mbodenham.com](mbodenham.com)
 
