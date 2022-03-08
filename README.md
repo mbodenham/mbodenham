@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning about **GPU Programming with CUDA C++**
 
-- 👨‍💻 All of my projects are available at [mbodenham.com](mbodenham.com)
+- 👨‍💻 All of my projects are available at [mbodenham.com](http://mbodenham.com)
