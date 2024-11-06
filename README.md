@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt Bodenham</h1>
-<h3 align="center">A PhD student researching efficient inference for LLMs🇰🇷</h3>
+<h3 align="center">A PhD student researching efficient inference for LLMs</h3>
 
 - 👨‍💻 I’m currently working on **Prompt Compression**
 
